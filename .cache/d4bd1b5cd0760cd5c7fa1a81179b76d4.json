@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../difference_in_milliseconds/index.js","loc":{"line":1,"column":39}}],"generated":{"js":"var e=require(\"../difference_in_milliseconds/index.js\");function r(r,i){var n=e(r,i)/1e3;return n>0?Math.floor(n):Math.ceil(n)}module.exports=r;"},"hash":"f87d697a76c9ee1418d88b4ab7d7ab97"}
