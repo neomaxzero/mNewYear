@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"../parse/index.js","loc":{"line":1,"column":20}}],"generated":{"js":"var e=require(\"../parse/index.js\");function r(r,i){var t=e(r),n=e(i);return t.getTime()-n.getTime()}module.exports=r;"},"hash":"114d119295f1bcb6258f9a1548b4a14f"}
