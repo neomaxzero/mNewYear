@@ -1,0 +1,38 @@
+.counterContainer {
+    padding-top: 0.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.u0-unit {
+    font-size: 7em;
+    line-height: 1em;
+}
+
+.u1-unit {
+    font-size: 5em;
+    line-height: 1em;
+    
+}
+
+.u2-unit {
+    font-size: 3.5em;
+    line-height: 1em;
+    
+}
+
+.u3-unit {
+    font-size: 1.7em;
+    line-height: 2.4em;
+    
+}
+
+.u4-unit {
+    font-size: 1.2em;
+    line-height: 2.4em;
+    
+}
+
+
